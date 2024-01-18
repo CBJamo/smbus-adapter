@@ -1,6 +1,6 @@
 [package]
 name = "smbus-adapter"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Caleb Jamison <caleb@cbjamo.com>"]
 description = "Provides smbus standardized transfers to i2c devices."
