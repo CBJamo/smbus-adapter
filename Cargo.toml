@@ -2,6 +2,11 @@
 name = "smbus-adapter"
 version = "0.1.0"
 edition = "2021"
+authors = ["Caleb Jamison <caleb@cbjamo.com>"]
+description = "Provides smbus standardized transfers to i2c devices."
+repository = "https://github.com/CBJamo/smbus-adapter"
+license = "MIT OR Apache-2.0"
+keywords = ["i2c", "smbus", "no_std"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
