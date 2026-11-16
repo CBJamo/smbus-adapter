@@ -12,4 +12,4 @@ keywords = ["i2c", "smbus", "no_std"]
 
 [dependencies]
 embedded-hal-async = "1.0.0"
-heapless = "0.8"
+heapless = "0.9"
